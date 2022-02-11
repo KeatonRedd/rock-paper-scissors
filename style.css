@@ -1,0 +1,14 @@
+body {
+    background-color: darkslategray;
+    font-family: Helvetica, Arial, sans-serif;
+ }
+ 
+h1 {
+    width: 50px;
+    font-size: 32px;
+    padding: 16px;
+    border: 2px;
+    border-radius: 25%;
+    border-color: purple;
+    color:white;
+}
